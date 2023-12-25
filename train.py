@@ -104,7 +104,7 @@ class AverageMeter(object):
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-# 数据增强
+
 import imgaug.augmenters as iaa
 import imgaug as ia
 from torchvision import transforms as tf
