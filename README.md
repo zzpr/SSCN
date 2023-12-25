@@ -6,7 +6,7 @@ This code comes from paper “Efficient Brain Tumor Segmentation with Lightweigh
 ![Uploading pfs.png…](https://github.com/zzpr/SSCN/blob/main/pfs.png?raw=true)
 
 
-![Uploading Visual_compare.png…]([https://github.com/zzpr/SSCN/blob/main/pfs.png?raw=true](https://github.com/zzpr/SSCN/blob/main/Visual_compare.png)https://github.com/zzpr/SSCN/blob/main/Visual_compare.png)
+![Uploading Visual_compare.png…](https://github.com/zzpr/SSCN/blob/main/Visual_compare.png)
 
 
 
